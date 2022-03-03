@@ -1,0 +1,48 @@
+.inscribed,.exterior {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+.inscribed > p ,
+.exterior > p{
+    width: 65%;
+    margin: 0 auto;
+    font-size: 20px;
+    padding-bottom: 3%;
+}
+.inscribed p:nth-of-type(2),
+.exterior p:nth-of-type(2){
+    font-weight: 600;
+}
+.inscribed img {
+    width: 35%;
+    margin: 0 auto;
+}
+.inscribed form,
+.exterior form {
+    font-weight: 600;
+    font-size: 20px;
+    padding: 1.2%;
+}
+.inscribed button,
+.exterior button {
+    font-size: 18px;
+    margin: 2% 0;
+}
+.inscribed input,
+.exterior input {
+    text-align: center;
+    font-size: 20px;
+    padding: 3px 0;
+    margin-right: 2%;
+}
+.inscribed h2,
+.exterior h2 {
+    font-size: 32px;
+}
+.exterior input{
+    width: 18%;
+}
+.exterior img {
+    width: 40%;
+}
